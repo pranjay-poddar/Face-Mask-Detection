@@ -31,11 +31,11 @@ python detect_mask_video.py
 ## Images
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64346030/163550640-33857816-7455-4ba6-b7e5-6644411782d1.png">
+  <img src="https://github.com/pranjay-poddar/Face-Mask-Detection/blob/main/images/img1.png">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64346030/163550649-eb799702-efca-4190-9efb-a51ed572a6e8.png">
+  <img src="https://github.com/pranjay-poddar/Face-Mask-Detection/blob/main/images/img2.png">
 </p>
 
 ## References
